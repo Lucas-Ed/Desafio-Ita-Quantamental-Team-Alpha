@@ -8,4 +8,4 @@
 [-Lucas Eduardo](https://github.com/Lucas-Ed)
 [-Bruno Augusto](https://github.com/BrunoAugustoSouza)
 [-Rafael Matos](https://github.com/rafaelmatosr)
-[-Bernardo Lima](https://github.com/)
+[-Bernardo Lima](https://github.com/bernardolima12)
