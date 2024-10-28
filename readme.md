@@ -1,4 +1,9 @@
-![](img/logo.PNG)
+
+<p align="center">
+
+  ![](img/logo.PNG)
+  
+</p>
 
 
 
